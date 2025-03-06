@@ -1,4 +1,4 @@
-## MERN Messanger
+## MERN-User-Auth
 This project is built on the MERN stack (MongoDB, Express.js, React, Tailwindcss, Node.js, Typescript, JWT, Bcypt) and includes essential user authentication functionality. It features:
 
 User Registration: Secure and efficient user signup with data validation.
