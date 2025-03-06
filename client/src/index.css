@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+.layout-links {
+  height: calc(100vh - 60px);
+}
